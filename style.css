@@ -1,0 +1,4 @@
+table{width: 100%}
+table th{background: red;padding:2px;color: white}
+table td{text-align: center;border: 1.4px solid red}
+table tr:nth-child(2n+1){background: #ddd}
